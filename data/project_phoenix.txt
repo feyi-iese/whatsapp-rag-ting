@@ -1,0 +1,9 @@
+Meeting Notes: Project Phoenix Kick-off
+Date: June 5, 2025
+Attendees: Alice, Bob, Charlie
+
+Agenda:
+1.  Project Goals: The main goal of Project Phoenix is to increase user retention by 15% in Q3.
+2.  Key Stakeholders: The primary stakeholder is the CEO, David. The marketing team, led by Eve, will handle promotion.
+3.  Timeline: Phase 1 (Development) is due by July 15, 2025. Phase 2 (Testing) will run until August 1, 2025.
+4.  Budget: The allocated budget is $50,000. Bob is responsible for tracking expenses.

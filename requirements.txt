@@ -1,0 +1,18 @@
+# --- Core LangChain Libraries (older, compatible versions) ---
+langchain==0.2.5
+langchain-core==0.2.43
+langchain-community==0.2.4
+langchain-openai==0.1.8
+langchain-text-splitters==0.2.1
+
+# --- Qdrant Libraries (pinned to match your server) ---
+qdrant-client==1.9.1
+langchain-qdrant==0.1.1
+
+# --- Web Server & API Libraries ---
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+twilio
+python-multipart
